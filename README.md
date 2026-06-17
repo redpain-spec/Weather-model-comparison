@@ -1,3 +1,4 @@
+<img width="308" height="169" alt="tongyeong_ae" src="https://github.com/user-attachments/assets/d972abb1-04d5-4ed8-864f-2f8a27de7156" />
 # AutoEncoder와 SVR 기반 수위 데이터 분석 프로젝트
 
 > 두 지역(여수, 통영)의 시계열 데이터를 활용하여  
