@@ -173,6 +173,7 @@ python svr.py
 #### 결과
 
 [Yeosu AutoEncoder]
+
 <img width="324" height="184" alt="yeosu_ae" src="https://github.com/user-attachments/assets/3e1d3691-eb97-48a8-9786-18ec4449d78d" />
 
 #### 분석
@@ -188,7 +189,9 @@ python svr.py
 
 #### 결과
 
-![Yeosu SVR]<img width="334" height="182" alt="yeosu_svr" src="https://github.com/user-attachments/assets/af257c88-54e3-4de4-b19e-a8c32d4ba756" />
+[Yeosu SVR]
+
+<img width="334" height="182" alt="yeosu_svr" src="https://github.com/user-attachments/assets/af257c88-54e3-4de4-b19e-a8c32d4ba756" />
 
 #### 분석
 
@@ -208,6 +211,7 @@ python svr.py
 #### 결과
 
 [Tongyeong AutoEncoder]
+
 <img width="308" height="169" alt="tongyeong_ae" src="https://github.com/user-attachments/assets/d972abb1-04d5-4ed8-864f-2f8a27de7156" />
 
 #### 분석
@@ -224,6 +228,7 @@ python svr.py
 #### 결과
 
 [Tongyeong SVR]
+
 <img width="334" height="182" alt="yeosu_svr" src="https://github.com/user-attachments/assets/b9f4afa9-84a3-4f48-824a-0d8e83a5b99a" />
 
 
