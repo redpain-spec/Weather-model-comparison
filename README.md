@@ -170,6 +170,10 @@ python svr.py
 ### AutoEncoder
 - MSE: 0.009759
 
+#### 결과
+
+![Yeosu AutoEncoder](yeosu_ae.png)
+
 #### 분석
 - 정상 구간에서 높은 재현 정확도  
 - 폭우 구간에서 reconstruction error 증가  
@@ -183,7 +187,7 @@ python svr.py
 
 #### 결과
 
-yeosu_svr.png
+![Yeosu SVR](yeosu_svr.png)
 
 #### 분석
 
@@ -200,6 +204,10 @@ yeosu_svr.png
 ### AutoEncoder
 - MSE: 약 0
 
+#### 결과
+
+![Tongyeong AutoEncoder](tongyeong_ae.png)
+
 #### 분석
 - 전체적으로 매우 높은 재구성 성능  
 - 반복 패턴을 안정적으로 학습  
@@ -213,7 +221,7 @@ yeosu_svr.png
 
 #### 결과
 
-tongyeong_svr.png
+![Tongyeong SVR](tongyeong_svr.png)
 
 #### 분석
 
