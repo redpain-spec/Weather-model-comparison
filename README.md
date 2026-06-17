@@ -1,4 +1,3 @@
-<img width="308" height="169" alt="tongyeong_ae" src="https://github.com/user-attachments/assets/d972abb1-04d5-4ed8-864f-2f8a27de7156" />
 # AutoEncoder와 SVR 기반 수위 데이터 분석 프로젝트
 
 > 두 지역(여수, 통영)의 시계열 데이터를 활용하여  
@@ -173,7 +172,8 @@ python svr.py
 
 #### 결과
 
-![Yeosu AutoEncoder](yeosu_ae.png)
+[Yeosu AutoEncoder]
+<img width="324" height="184" alt="yeosu_ae" src="https://github.com/user-attachments/assets/3e1d3691-eb97-48a8-9786-18ec4449d78d" />
 
 #### 분석
 - 정상 구간에서 높은 재현 정확도  
@@ -188,7 +188,7 @@ python svr.py
 
 #### 결과
 
-![Yeosu SVR](yeosu_svr.png)
+![Yeosu SVR]<img width="334" height="182" alt="yeosu_svr" src="https://github.com/user-attachments/assets/af257c88-54e3-4de4-b19e-a8c32d4ba756" />
 
 #### 분석
 
@@ -207,7 +207,8 @@ python svr.py
 
 #### 결과
 
-![Tongyeong AutoEncoder](tongyeong_ae.png)
+[Tongyeong AutoEncoder]
+<img width="308" height="169" alt="tongyeong_ae" src="https://github.com/user-attachments/assets/d972abb1-04d5-4ed8-864f-2f8a27de7156" />
 
 #### 분석
 - 전체적으로 매우 높은 재구성 성능  
@@ -222,7 +223,10 @@ python svr.py
 
 #### 결과
 
-![Tongyeong SVR](tongyeong_svr.png)
+[Tongyeong SVR]
+<img width="334" height="182" alt="yeosu_svr" src="https://github.com/user-attachments/assets/b9f4afa9-84a3-4f48-824a-0d8e83a5b99a" />
+
+
 
 #### 분석
 
