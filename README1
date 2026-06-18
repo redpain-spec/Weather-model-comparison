@@ -38,44 +38,6 @@
 
 ---
 
-## 문제 정의
-
-- 기존 수위 감지 시스템의 실시간성 및 정확도 한계  
-- 다양한 기상 변수로 인한 데이터 복잡성 증가  
-- 단일 모델로는 데이터 구조 및 예측을 동시에 만족하기 어려움  
-
----
-
-## 연구 목표
-
-- 다양한 모델 성능 비교  
-- 지역별 데이터 특성 반영  
-- 최적 모델 선정 및 일반화 성능 평가  
-
----
-
-## 모델 구성
-
-### 김진우
-- AutoEncoder  
-- SVR  
-
-### 윤서연
-- LSTM  
-- RandomForest  
-
-### 오랑거
-- 1D-CNN + GRU  
-- LightGBM  
-
----
-
-## Baseline 모델
-
-https://github.com/Suchetha21/Rainfall-Prediction-LSTM
-
----
-
 ## 모델 평가 기준
 
 - 학습 방식  
@@ -99,7 +61,8 @@ https://github.com/Suchetha21/Rainfall-Prediction-LSTM
 
 ### 남해
 
-남해 Auto.png  
+<img width="600" src="남해 Auto.png" />
+
 - Recall: 0.636  
 - F1-score: 0.75  
 
@@ -107,7 +70,8 @@ https://github.com/Suchetha21/Rainfall-Prediction-LSTM
 
 ### 강원
 
-강원 auto.png  
+<img width="600" src="강원 auto.png" />
+
 - Recall: 1.0  
 - F1-score: 0.571  
 
@@ -115,7 +79,8 @@ https://github.com/Suchetha21/Rainfall-Prediction-LSTM
 
 ### 대전
 
-대전 auto.png  
+<img width="600" src="대전 auto.png" />
+
 - Recall: 0.808  
 - F1-score: 0.808  
 
@@ -123,7 +88,8 @@ https://github.com/Suchetha21/Rainfall-Prediction-LSTM
 
 ### 충청남도
 
-충남 Auto.png  
+<img width="600" src="충남 Auto.png" />
+
 - Recall: 0.63  
 - F1-score: 0.723  
 
@@ -131,7 +97,8 @@ https://github.com/Suchetha21/Rainfall-Prediction-LSTM
 
 ### 경상북도
 
-경상북도 auto.png  
+<img width="600" src="경상북도 auto.png" />
+
 - Recall: 0.767  
 - F1-score: 0.821  
 
@@ -139,7 +106,8 @@ https://github.com/Suchetha21/Rainfall-Prediction-LSTM
 
 ### 전라남도
 
-전남 Auto.png  
+<img width="600" src="전남 Auto.png" />
+
 - Recall: 0.5  
 - F1-score: 0.565  
 
@@ -147,7 +115,8 @@ https://github.com/Suchetha21/Rainfall-Prediction-LSTM
 
 ### 부산
 
-부산 Auto.png  
+<img width="600" src="부산 Auto.png" />
+
 - Recall: 0.6  
 - F1-score: 0.682  
 
@@ -159,7 +128,8 @@ https://github.com/Suchetha21/Rainfall-Prediction-LSTM
 
 ### 남해
 
-남해 lstm.png  
+<img width="600" src="남해 lstm.png" />
+
 - Recall: 0.667  
 - F1-score: 0.733  
 
@@ -167,7 +137,8 @@ https://github.com/Suchetha21/Rainfall-Prediction-LSTM
 
 ### 강원
 
-강원 L.png  
+<img width="600" src="강원 L.png" />
+
 - Recall: 1.0  
 - F1-score: 0.5  
 
@@ -175,7 +146,8 @@ https://github.com/Suchetha21/Rainfall-Prediction-LSTM
 
 ### 대전
 
-대전 LSTM.png  
+<img width="600" src="대전 LSTM.png" />
+
 - Recall: 0.538  
 - F1-score: 0.549  
 
@@ -183,7 +155,8 @@ https://github.com/Suchetha21/Rainfall-Prediction-LSTM
 
 ### 충청남도
 
-충남 LSTM.png  
+<img width="600" src="충남 LSTM.png" />
+
 - Recall: 0.481  
 - F1-score: 0.619  
 
@@ -191,7 +164,8 @@ https://github.com/Suchetha21/Rainfall-Prediction-LSTM
 
 ### 경상북도
 
-경상북도 Lstm.png  
+<img width="600" src="경상북도 Lstm.png" />
+
 - Recall: 0.5  
 - F1-score: 0.638  
 
@@ -199,7 +173,8 @@ https://github.com/Suchetha21/Rainfall-Prediction-LSTM
 
 ### 전라남도
 
-전남 LSTM.png  
+<img width="600" src="전남 LSTM.png" />
+
 - Recall: 0.423  
 - F1-score: 0.579  
 
@@ -207,7 +182,8 @@ https://github.com/Suchetha21/Rainfall-Prediction-LSTM
 
 ### 부산
 
-부산 LSTM.png  
+<img width="600" src="부산 LSTM.png" />
+
 - Recall: 0.6  
 - F1-score: 0.698  
 
