@@ -61,16 +61,12 @@
 
 ### 남해
 
-<img width="600" src="남해 Auto.png" />
-
 - Recall: 0.636  
 - F1-score: 0.75  
 
 ---
 
 ### 강원
-
-<img width="600" src="강원 auto.png" />
 
 - Recall: 1.0  
 - F1-score: 0.571  
@@ -79,16 +75,12 @@
 
 ### 대전
 
-<img width="600" src="대전 auto.png" />
-
 - Recall: 0.808  
 - F1-score: 0.808  
 
 ---
 
 ### 충청남도
-
-<img width="600" src="충남 Auto.png" />
 
 - Recall: 0.63  
 - F1-score: 0.723  
@@ -97,7 +89,6 @@
 
 ### 경상북도
 
-<img width="600" src="경상북도 auto.png" />
 
 - Recall: 0.767  
 - F1-score: 0.821  
@@ -106,7 +97,6 @@
 
 ### 전라남도
 
-<img width="600" src="전남 Auto.png" />
 
 - Recall: 0.5  
 - F1-score: 0.565  
@@ -115,7 +105,6 @@
 
 ### 부산
 
-<img width="600" src="부산 Auto.png" />
 
 - Recall: 0.6  
 - F1-score: 0.682  
@@ -128,7 +117,6 @@
 
 ### 남해
 
-<img width="600" src="남해 lstm.png" />
 
 - Recall: 0.667  
 - F1-score: 0.733  
@@ -137,8 +125,6 @@
 
 ### 강원
 
-<img width="600" src="강원 L.png" />
-
 - Recall: 1.0  
 - F1-score: 0.5  
 
@@ -146,7 +132,6 @@
 
 ### 대전
 
-<img width="600" src="대전 LSTM.png" />
 
 - Recall: 0.538  
 - F1-score: 0.549  
@@ -155,7 +140,6 @@
 
 ### 충청남도
 
-<img width="600" src="충남 LSTM.png" />
 
 - Recall: 0.481  
 - F1-score: 0.619  
@@ -164,7 +148,6 @@
 
 ### 경상북도
 
-<img width="600" src="경상북도 Lstm.png" />
 
 - Recall: 0.5  
 - F1-score: 0.638  
@@ -173,7 +156,6 @@
 
 ### 전라남도
 
-<img width="600" src="전남 LSTM.png" />
 
 - Recall: 0.423  
 - F1-score: 0.579  
@@ -182,7 +164,6 @@
 
 ### 부산
 
-<img width="600" src="부산 LSTM.png" />
 
 - Recall: 0.6  
 - F1-score: 0.698  
